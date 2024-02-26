@@ -13,7 +13,7 @@ public class MethodGET {
 	//	System.out.println(al.get(1));
 		Object obj = al.get(2);
 		if(obj!=null) {
-			System.out.println("not null and not null");
+			System.out.println("not null and not null not null");
 		}else {
 			System.out.println("Null");
 		}
